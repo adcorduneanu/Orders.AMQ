@@ -4,7 +4,7 @@ namespace Order.Api.Controllers
     using MassTransit;
     using Microsoft.AspNetCore.Mvc;
     using Order.Contracts;
-    using Stock.Contracts;
+    using Stock.Contracts.DTO;
     using Voucher.Contracts;
 
     [ApiController]

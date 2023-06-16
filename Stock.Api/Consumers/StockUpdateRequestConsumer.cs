@@ -2,6 +2,7 @@
 {
     using MassTransit;
     using Stock.Contracts;
+    using Stock.Contracts.DTO;
 
     public class StockUpdateRequestConsumer : IConsumer<StockUpdateRequest>
     {

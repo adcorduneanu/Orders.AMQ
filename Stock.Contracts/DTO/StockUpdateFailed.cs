@@ -1,4 +1,4 @@
-﻿namespace Stock.Contracts
+﻿namespace Stock.Contracts.DTO
 {
     public sealed class StockUpdateFailed
     {
